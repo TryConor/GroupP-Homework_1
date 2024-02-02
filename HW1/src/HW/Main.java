@@ -9,6 +9,8 @@ public class Main {
 		System.out.println("ID: TryConor");
 		System.out.println("Name: Eli Wuerth");
 		System.out.println("ID: EliWuerth");
+		System.out.println("Kristyn Morgenthaler");
+		System.out.println("ID: kriswizzle03");
 	}
 
 }
