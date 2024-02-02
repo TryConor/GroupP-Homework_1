@@ -7,6 +7,8 @@ public class Main {
 		System.out.println("ID: MichaelKeeney");
 		System.out.println("Name: Conor McLaughlin");
 		System.out.println("ID: TryConor");
+		System.out.println("Name: Eli Wuerth");
+		System.out.println("ID: EliWuerth");
 	}
 
 }
